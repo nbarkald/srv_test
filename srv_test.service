@@ -2,5 +2,5 @@
 Description=Service test
 
 [Service]
-ExecStart=sh /tools/srv_test/srv_test.sh
+ExecStart=/tools/repos/srv_test/srv_test.sh
 User=nils
